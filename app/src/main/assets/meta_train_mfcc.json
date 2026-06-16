@@ -1,0 +1,20 @@
+{
+  "split": "train",
+  "feature_mode": "mfcc",
+  "x_path": "/proj/engclasses/eesc6364/nxt230004/orvae_runs/mmap_mfcc/X_train.dat",
+  "y_path": "/proj/engclasses/eesc6364/nxt230004/orvae_runs/mmap_mfcc/y_train.dat",
+  "snr_path": "/proj/engclasses/eesc6364/nxt230004/orvae_runs/mmap_mfcc/snr_train.dat",
+  "shape": [
+    631455,
+    80,
+    64
+  ],
+  "min": -17559.234375,
+  "max": 4361.3876953125,
+  "use_sliding": true,
+  "stride": 8,
+  "used_utts": 1397,
+  "padded": true,
+  "pad_seconds_each_side": 0.0,
+  "dtype": "float16"
+}
