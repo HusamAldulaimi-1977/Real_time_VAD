@@ -22,8 +22,6 @@ An Android application that detects human voice activity in real time using DSP 
 The app captures microphone input and applies DSP algorithms to distinguish 
 voice from background noise in real time.
 
-## Course
-Applied Digital Signal Processing — University of Texas at Dallas
 
 ## Author
 Husam Aldulaimi
